@@ -1,0 +1,6 @@
+;jit.noise.def
+
+LIBRARY	jit.noise
+
+EXPORTS
+	main

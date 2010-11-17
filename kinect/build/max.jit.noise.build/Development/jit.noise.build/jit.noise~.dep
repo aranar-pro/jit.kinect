@@ -1,0 +1,8 @@
+00000000000000000000000000000000 7db7ef654f9c53d5ac67e3ddd10aa289 ffffffffffffffffffffffffffffffff 101 /MaxSDK-5.0.6/examples/noise/build/Development/jit.noise.mxo
+d5ca93c440b8e71c99e71f5046208163 21408fe789e636cd25bc22bcd1ee92d9 ffffffffffffffffffffffffffffffff 102 /MaxSDK-5.0.6/examples/noise/../../../sysbuild/Development/Cycling '74/jitter-externals/jit.noise.mxo
+fad89cf32b28c4c43d6af46c30a1b2ff 2f120f376b9023d8a48deb3c7681339c ffffffffffffffffffffffffffffffff 20040 /MaxSDK-5.0.6/examples/noise/../../../sysbuild/Development/Cycling '74/jitter-externals/jit.noise.mxo/Contents/MacOS/jit.noise
+00000000000000000000000000000000 689298a7c175acab93d76893e5c5094e ffffffffffffffffffffffffffffffff 8 /MaxSDK-5.0.6/examples/noise/../../../sysbuild/Development/Cycling '74/jitter-externals/jit.noise.mxo/Contents/PkgInfo
+00000000000000000000000000000000 689298a7c175acab93d76893e5c5094e ffffffffffffffffffffffffffffffff 649 /MaxSDK-5.0.6/examples/noise/../../../sysbuild/Development/Cycling '74/jitter-externals/jit.noise.mxo/Contents/Info.plist
+af489420a8ae24011edda25601c8ba65 4cf74f80d282ebdfa1500894ffa7d333 ffffffffffffffffffffffffffffffff 8016 /MaxSDK-5.0.6/examples/noise/build/max.jit.noise.build/Development/jit.noise.build/Objects-normal/i386/max.jit.noise.o
+af489420e126fb3f1edda25601c8a6f8 b62fd373b2acb1749c3afcf8cf35b54b ffffffffffffffffffffffffffffffff 13560 /MaxSDK-5.0.6/examples/noise/build/max.jit.noise.build/Development/jit.noise.build/Objects-normal/i386/jit.noise.o
+0000000008a34b1c000000000007f422 af489420eb805b7a1edda25601cfa068 ffffffffffffffffffffffffffffffff 36786728 /var/folders/ec/ecX8zjviEUSlgTC43JlIN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/macho-prefix-hcbzecpwyiwpzqetfzacjamqgndv/macho-prefix.pch.gch
